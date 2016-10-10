@@ -1,6 +1,8 @@
 # tetris-for-ios
 
-<img src="Tetris/icon.png" style="display: block; margin: 0 auto;" alt="App Icon">
+<div align="center">
+<img src="Tetris/icon.png" alt="App Icon">
+</div>
 
 ## Introduction
 A simple tetris game for iOS platform made using Swift. 
